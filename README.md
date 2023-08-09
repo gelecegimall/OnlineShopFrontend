@@ -1,3 +1,6 @@
+# TODO LIST
+[CLICK HERE](https://trello.com/b/iWy7AxIx/project-management)
+
 # OnlineShop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
